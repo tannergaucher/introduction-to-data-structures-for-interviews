@@ -1,6 +1,6 @@
 # Introduction to Data Structures for Interviews: Course Notes
 
-Why care about data structures?
+\Why care about data structures?
 
 Common data structures:
 
